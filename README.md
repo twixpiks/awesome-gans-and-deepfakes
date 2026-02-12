@@ -101,6 +101,7 @@ Changing What You Want, [[paper]](http://vipl.ict.ac.cn/uploadfile/upload/201911
 + SVM: Exposing Deep Fakes Using Inconsistent Head Poses, [[paper]](https://ieeexplore.ieee.org/document/8683164)
  
  ## Datasets
++ [AI Detector Arena Benchmark](https://aidetectarena.com/benchmark-dataset) - Standardized benchmark for evaluating AI-generated image detectors. 2,038 images (1,018 AI-generated, 1,020 real) across 17 generators and 6 categories with live leaderboard. [[DOI]](https://doi.org/10.5281/zenodo.18620634)
 + [Google Deepfake Detection Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
 + [FaceForensics++ Dataset](https://github.com/ondyari/FaceForensics/tree/master/dataset)
 + [Facebook Deepfake Detection Challenge (DFDC) Dataset](https://www.kaggle.com/c/deepfake-detection-challenge/data)
